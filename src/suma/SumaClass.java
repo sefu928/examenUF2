@@ -6,7 +6,11 @@ public class SumaClass {
     
     
 
-    public int getNum1(int num1){
-        return num1;
+    
+    
+    
+    
+    public double sumaValorAbsolut(double n1, double n2){
+        return n1 + n2;
     }
 }
